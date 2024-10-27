@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Wafleem. My real name is Safal Ghimire.
+- 🌱 I’m currently pursuing a B.S in Electrical and Computer Engineering at New York University
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love custom computers! I'm currently running a build w/an AMD Ryzen 7 2700, and an RX 590
